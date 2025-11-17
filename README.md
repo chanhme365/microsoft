@@ -1,4 +1,11 @@
-# Microsoft 365 Portal
+# Microsoft 365 Client
+- [Outlook Login](https://outlook.office.com)
+- [Reset Password (Microsoft Account)](https://account.live.com/password/reset)
+- [Microsoft Teams](https://teams.microsoft.com)
+- [Microsoft 365 Admin Center](https://admin.microsoft.com)
+
+
+# Microsoft 365 Admin
 - [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home)  
 - [Microsoft Defender (Security)](https://security.microsoft.com)  
 - [Microsoft Purview](https://purview.microsoft.com)  
@@ -13,10 +20,9 @@
 - [Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator)  
 - [Windows Autopilot](https://endpoint.microsoft.com/#/windowsAutopilot)  
 
-### Monitoring / Status
+### Microsoft 365 Monitoring / Status
 - [Microsoft 365 Admin – Service Health](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)
 - [Microsoft Azure Status](https://status.azure.com)
 - [Microsoft 365 Network Health Status](https://admin.microsoft.com/adminportal/home#/networkperformance)
 - [Downdetector](https://downdetector.com)
-- [UptimeRobot](https://uptimerobot.com)
 - [Microsoft Fabric Health / Status](https://learn.microsoft.com/fabric/get-started/service-health) 
