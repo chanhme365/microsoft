@@ -12,3 +12,11 @@
 - [Microsoft Azure Portal](https://portal.azure.com)  
 - [Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator)  
 - [Windows Autopilot](https://endpoint.microsoft.com/#/windowsAutopilot)  
+
+### Monitoring / Status
+- [Microsoft 365 Admin – Service Health](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)
+- [Microsoft Azure Status](https://status.azure.com)
+- [Microsoft 365 Network Health Status](https://admin.microsoft.com/adminportal/home#/networkperformance)
+- [Downdetector](https://downdetector.com)
+- [UptimeRobot](https://uptimerobot.com)
+- [Microsoft Fabric Health / Status](https://learn.microsoft.com/fabric/get-started/service-health) 
